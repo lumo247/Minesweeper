@@ -1,6 +1,6 @@
 # Minesweeper
 
-This is a super basic Minesweeper I made in a few hours.
+This is a super basic Minesweeper I made in about an hour.
 
 It has several difficulties: Easy, Medium, Hard, and Custom. Each have different board sizes and bomb counts; the user can choose their own board size and bomb count in Custom difficulty.
 
